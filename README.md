@@ -1,5 +1,5 @@
 # AquaGuard  
-_Intelligent Leak Detection Automation with R for Lydec Company (Engineering Graduation Project)_
+## _Intelligent Leak Detection Automation with R for Lydec Company (Industrial Engineering Final Year Project)_
 
 AquaGuard is an intelligent leak detection system developed as part of my Engineering Graduation Project and final internship for my state engineering diploma at LYDEC—Lyonnaise des Eaux de Casablanca in Morocco, the operator of Casablanca’s 4,500 km water distribution network. This repository contains *R scripts* that integrate data correction, forecasting, data mining, and ML-driven anomaly detection to optimize network performance and reduce water losses.
 
