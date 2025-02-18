@@ -49,4 +49,4 @@ date_prev <- time_seq[(2016*4 + 1):(2016*5)]
 
 # Write the predictions and errors to a CSV file
 output <- cbind(Prediction, Erreur)
-write.csv2(output, file = 'path/to/Sortie_Arima_GPSMin.csv', row.names = date_prev)
+write.csv2(output, file = "YOUR_OUTPUT_FILE.csv", row.names = date_prev)
